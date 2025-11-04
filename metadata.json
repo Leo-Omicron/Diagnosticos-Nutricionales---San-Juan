@@ -1,0 +1,5 @@
+{
+  "name": "Nutritional Diagnosis Dashboard",
+  "description": "An interactive web application to visualize the nutritional diagnosis of students at I.E. San Juan del Córdoba, as part of the 'Healthy Schools' program.",
+  "requestFramePermissions": []
+}
